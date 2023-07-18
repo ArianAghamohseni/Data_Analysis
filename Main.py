@@ -157,11 +157,3 @@ plt.ylabel('Principal Component 2')
 plt.title('Biplot')
 plt.grid()
 plt.show()
-
-
-
-
-
-# Second part :
-
-
